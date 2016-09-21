@@ -1,0 +1,6 @@
+---
+layout: sieutv
+title: Touka Gettan
+thumb: http://xemhoathinh.net/data/images/films/thumb/touka-gettan-touka-gettan-2013.jpg
+---
+{% include xemhoathinh_bo tap="111744,111745,111746,111747,111748,111749,111750,111751,111752,111753,111754,111755,111756,111757,111758,111759,111760,111761,111762,111763,111764,111765,111766,111767,111768,111769" %} 

@@ -1,0 +1,6 @@
+---
+layout: sieutv
+title: Magi
+thumb: http://xemhoathinh.net/data/images/films/thumb/me-cung-ma-thuat-magi-2012.jpg
+---
+{% include xemhoathinh_bo tap="117634,117635,117636,117637,117638,117639,117640,117641,117642,117643,117644,117645,117646,117647,117648,117649,117650,117651,117652,117653,125035,125036,125037,125038,125039" %} 

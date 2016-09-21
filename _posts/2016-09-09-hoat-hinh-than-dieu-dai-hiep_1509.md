@@ -1,0 +1,6 @@
+---
+layout: sieutv
+title: The Condor Heroes Anime
+thumb: http://xemhoathinh.net/data/images/films/thumb/hoat-hinh-than-dieu-dai-hiep-the-condor-heroes-anime-1995.jpg
+---
+{% include xemhoathinh_bo tap="32714,32715,32716,32717,32718,32719,32769,32770,32771,45263,32773,32774,32775,32776,32777,32864,32865,32866,32874,32778,32779,32780,32781,32782,32783,32867,32868,32869,32870,32784,32785,32786,32875,32876,32877,32991,32871,32872,32873" %} 

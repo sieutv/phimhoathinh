@@ -1,0 +1,6 @@
+---
+layout: sieutv
+title: Hanasakeru Seishounen
+thumb: http://xemhoathinh.net/data/images/films/thumb/hanasakeru-seishounen-hanasakeru-seishounen-2012.jpg
+---
+{% include xemhoathinh_bo tap="77218,77219,77220,77221,77222,77223,77224,77225,77226,77227,77228,77229,77230,77231,77232,77233,77234,77235,77236,77237,77238,80036,80037,80038,80039,80040,80041,80042,80043,80044,80045,80046,80047,80048,80049,80050,80051,80052,80053" %} 

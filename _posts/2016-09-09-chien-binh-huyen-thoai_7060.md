@@ -1,0 +1,6 @@
+---
+layout: sieutv
+title: Yes! Precure 5 Go Go!
+thumb: http://xemhoathinh.net/data/images/films/thumb/chien-binh-huyen-thoai-yes-precure-5-go-go-2010.jpg
+---
+{% include xemhoathinh_bo tap="184391,184392,184677,184393,184394,184395,184396,184397,184398,184399,184400,184401,184402,184586,184403,184404,184405,184406,184407,184408,184409,184410,184411,184412,184413,184414,184415,184416,184417" %} 

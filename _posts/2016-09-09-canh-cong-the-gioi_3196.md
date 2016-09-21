@@ -1,0 +1,6 @@
+---
+layout: sieutv
+title: Shuffle!
+thumb: http://xemhoathinh.net/data/images/films/thumb/shuffle-shuffle-2012.jpg
+---
+{% include xemhoathinh_bo tap="111860,111861,111862,111863,111864,111865,111866,111867,111868,111869,111870,111871,111872,111873,111874,111875,111876,111877,111878,112399,112400,112401,112402,112403" %} 
